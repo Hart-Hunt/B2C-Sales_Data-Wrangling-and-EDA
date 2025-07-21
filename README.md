@@ -28,7 +28,7 @@ It includes information on stores, products, and transactional sales.
 
 ---
 
-## 📊 Exploratory Data Analysis
+## 📊 Exploratory Data Analysis (coming soon)
 
 The EDA focuses on:
 
@@ -56,7 +56,7 @@ These outputs serve as the foundation for the following projects in the portfoli
 
 ---
 
-## 🧭 Next Steps
+## 🧭 Next Steps (coming soon)
 
 Explore the companion repositories:
 - `Forecasting_B2C_Sales`
